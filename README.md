@@ -1,5 +1,6 @@
 
-DEPLOYMENT: https://liamdoan.github.io/flashcard-quote/
+# DEPLOYMENT: 
+https://liamdoan.github.io/flashcard-quote/
 
 # Getting Started with Create React App
 
